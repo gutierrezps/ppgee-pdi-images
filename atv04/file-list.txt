@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/color_wheel.png
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img1_small.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img1_large.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img2_small.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img2_large.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img3_small.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img3_large.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img4_small.jpg
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv04/img4_large.jpg
