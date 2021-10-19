@@ -1,2 +1,4 @@
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv07/circle.png
+https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv07/circles.png
 https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv07/balls1.jpg
 https://raw.githubusercontent.com/gutierrezps/ppgee-pdi-images/main/atv07/balls2.jpg
